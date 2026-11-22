@@ -123,7 +123,7 @@ The complete Unity project, including its scenes, models, textures, audio and ot
 
 ## Download and Play
 
-A Windows build is available under **GitHub Releases**.
+A Windows build is available under [**GitHub Releases**.](https://github.com/Mian-GGG/unity-3D-mini-games/releases/tag/v1.0)
 
 1. Download the Windows ZIP archive.
 2. Extract the archive.
